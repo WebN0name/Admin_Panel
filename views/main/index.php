@@ -1,0 +1,1 @@
+<a href="<?php echo URL?>admin">Админ панель</a>
